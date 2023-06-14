@@ -2,7 +2,8 @@
   position: absolute;
   z-index: 99;
   height: 100vh;
-  background-color: var(--yellow);
+  background-image: url(/screenshots/mokoko.png);
+  /*background-color: var(--yellow);*/
   width: 100vw;
   display: flex;
   justify-content: center;
