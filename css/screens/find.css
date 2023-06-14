@@ -50,6 +50,8 @@
   .open-post {
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    justify-content: space-between;
   }
 
   .open-post__title {
