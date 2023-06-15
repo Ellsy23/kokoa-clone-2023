@@ -13,6 +13,16 @@
   font-size: 22px;
 }
 
+.settings__setting-column1 {
+  margin-right: 68%;
+  text-align: center;
+  width: 20px;
+  height: 20px;
+  background-color: tomato;
+  border-radius:45px;
+  color: white;
+}
+
 .settings__setting-column:last-child {
   opacity: 0.5;
 }

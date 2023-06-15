@@ -12,6 +12,13 @@
 .user-component__column:first-child {
   display: flex;
   align-items: center;
+  margin-bottom: 15px;
+}
+
+.user-component__column-gift {
+  border: var(--main-border);
+  border-radius: 45px;
+  text-align: center;
 }
 
 .user-component__avatar {
