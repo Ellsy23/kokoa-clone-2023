@@ -31,6 +31,11 @@
   color: rgba(0, 0, 0, 0.5);
 }
 
+.friends-screen__channel-header:hover, .friends-screen__channel-header2:hover  {
+  cursor: pointer;
+  color: blue;
+}
+
 .friends-screen__channel-header2 {
   color: rgba(0, 0, 0, 0.5);
   margin-top: 20px;
