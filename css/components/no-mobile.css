@@ -2,7 +2,7 @@
   position: absolute;
   z-index: 99;
   height: 100vh;
-  background-image: url(/screenshots/mokoko.png);
+  background-image: url(../../screenshots/mokoko.png);
   width: 100vw;
   display: flex;
   justify-content: center;
