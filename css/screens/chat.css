@@ -1,6 +1,5 @@
 #chat-screen {
-  background-image: url(/screenshots/meenoi.jpg);
-  height: 500vh;
+  background-color: peachpuff;
 }
 
 #chat-screen .alt-header,
@@ -8,7 +7,7 @@
   top: 0;
   position: fixed;
   width: 100%;
-  background-image: url(/screenshots/meenoi.jpg);
+
   box-sizing: border-box;
 }
 
@@ -42,7 +41,7 @@
 
 .chat__timestamp {
   color: black;
-  background-color: wheat;
+  background-color: pink;
   opacity: 0.4;
   padding: 15px;
   font-size: 14px;
